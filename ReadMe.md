@@ -17,7 +17,7 @@ test_label
 6. After that, you need to create a dictionary in which diseases are keys and treatments are values.
 
 
-There are eight major tasks that you need to perform to complete the assignment. They are as follows:
+There are eight major tasks we have to perform. They are as follows:
 1. Data preprocessing
 2. Concept identification
 3. Defining the features for CRF
